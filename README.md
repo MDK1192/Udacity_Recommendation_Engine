@@ -8,9 +8,8 @@ The motivation of this project is based on a Udacity-Nanodegree project. Task is
 This project was initialized in a Jupyter Notebook using Python 3. Dependencies are implemented within the Notebook itself. 
 
 # File Descriptions
-ETL-Pipeline Prepartion.ipynb: Jupyter Notebook with code for the ETL-Pipeline of this project.
-ML-ipeline Prepartion.ipynb: Jupyter Notebook with code for the ML-pipeline of this project.
-disaster-response-pipeline-project.zip: Flask app bundle with modularized Version of Code used in both Jupyter Notebooks.
+Recommendations_with_IBM.ipynb: Jupyter Notebook with code for the recommendation engine of this project.
+Recommendations_with_IBM.html: Html version of Recommendations_with_IBM.ipynb.
 
 # How to interact with the repositories content
 For further working on the Jupyter Notebook, you can either download it and work locally with it, or use the Python Notebook from within the online version of [Jupyter](https://jupyter.org/try).
